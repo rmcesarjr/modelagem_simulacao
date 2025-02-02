@@ -1,3 +1,6 @@
+# Nao se esqueca de instalar as dependencias: 
+# pip install numpy sounddevice matplotlib
+
 import numpy as np
 import sounddevice as sd
 import matplotlib.pyplot as plt
